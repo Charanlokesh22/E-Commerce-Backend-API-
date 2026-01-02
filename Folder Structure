@@ -1,0 +1,19 @@
+ecommerce-backend/
+│
+├── app/
+│   ├── users/
+│   ├── products/
+│   ├── cart/
+│   ├── orders/
+│   ├── payments/
+│   │
+│   ├── core/
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   ├── wsgi.py
+│
+├── manage.py
+├── requirements.txt
+├── Dockerfile
+├── .env.example
+├── README.md
